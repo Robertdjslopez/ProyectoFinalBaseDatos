@@ -1,3 +1,13 @@
+--Proyecto Final de Base de Datos
+--Integrantes:
+--Isaac Almonte Polanco 20-EIIN-1-002 
+--Luis Miguel Marte Gratereaux 20-EIIN-1-024 
+--Robert De Jesús López Peralta 20-EIIN-1-017
+--Universidad Dominicana O&M
+--Maestro: Starling Germosen
+--Materia: Base de Datos
+--Sección: 0541
+
 --Códigos SQL
 --Comandos para crear una DB
 --Create Database DBProyectoFinalMaxWatts
